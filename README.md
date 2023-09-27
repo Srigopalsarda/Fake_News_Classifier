@@ -41,3 +41,5 @@ You can install these libraries using pip:
 ``` bash
 pip install numpy pandas scikit-learn nltk matplotlib
 ```
+## Contributing
+Fork the repository. Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name. Make your changes and commit them: `git commit`
